@@ -1,0 +1,52 @@
+﻿h1 {
+	color: black;
+	font-size: 30px;
+	font-family: calibri;
+	margin: 10px 20px;
+	border: solid 5px teal;
+	border-radius: 2px;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table {
+	color: teal;
+	border: solid 3px teal;
+	margin-left: auto;
+	margin-right: auto;
+	position: static;
+}
+thead {
+	font-family: calibri;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+thead th {
+	text-transform: uppercase;		
+}
+
+p {
+	border: solid 1px black;
+	font-family: aria;
+}
+
+h2 {
+	color: black;
+	font-size: 30px;
+	font-family: calibri;
+	margin: 10px 20px;
+	border: solid 5px darkred;
+	border-radius: 2px;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
